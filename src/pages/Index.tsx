@@ -42,8 +42,8 @@ const Index = () => {
                 <span className="h-1.5 w-1.5 rounded-full bg-accent" />
                 Civic education, reinvented
               </span>
-              <h1 className="font-display text-4xl font-bold leading-[1.05] tracking-tight md:text-5xl lg:text-6xl">
-                Learn the <span className="bg-hero bg-clip-text text-transparent">election process</span> by doing it.
+              <h1 className="font-display text-4xl font-bold leading-[1.05] tracking-tight md:text-5xl lg:text-6xl text-white">
+              Learn the <span className="text-white">election process</span> by doing it.
               </h1>
               <p className="mt-5 max-w-xl text-lg text-muted-foreground">
                 VoteWise AI is an interactive learning assistant. Chat about elections,
